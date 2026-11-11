@@ -1,0 +1,5 @@
+# 本机 AI 工具的工作数据，不入库
+.workbuddy/
+
+# 本地 markdown issue tracker（当前未启用，留作备用）
+.scratch/
